@@ -1,4 +1,3 @@
-
 from func import * 
 rodando = True
 
